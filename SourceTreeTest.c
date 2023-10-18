@@ -3,7 +3,7 @@
 int mai()
 {
         printf("first OSS code\n");
-        printf("third\n")
+        printf("Second\n")
         return 0;
     
 }
